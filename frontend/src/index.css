@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Optional: Add your theme variables here */
+@theme {
+  --color-brand: #4f46e5;
+}
